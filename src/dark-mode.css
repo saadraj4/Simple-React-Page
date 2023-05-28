@@ -1,0 +1,21 @@
+/* dark-mode.css */
+.app {
+    background-color: #333;
+    color: #fff;
+  }
+  
+  header {
+    background-color: #333;
+    color: #fff;
+  }
+  
+  .main-card {
+    background-color: #1a1a1a;
+    color: #fff;
+  }
+  
+  footer {
+    background-color: #333;
+    color: #fff;
+  }
+  
